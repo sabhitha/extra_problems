@@ -1,2 +1,2 @@
 # extra_problems
-This repo is for the programs given by peri sir 
+This repo is for submitting the programs given by Peri sir 
